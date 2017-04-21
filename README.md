@@ -1,4 +1,4 @@
-# MITEs in 19 Arabidopsis Accessions#
+# MITEs in 19 Arabidopsis Accessions #
 This repository contains the MySQL database used in "Genome-Wide Comparative Analysis of Miniature Inverted Repeat Transposable Elements in 19 *Arabidopsis thaliana* Ecotype Accessions." Both a zip file containing a dump of the database and the scripts to populate the database from scratch are available in this repository. This tutorial is for running on linux (Ubuntu).
 
 ## Installing MySQL ##
